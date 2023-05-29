@@ -61,7 +61,7 @@ Merge conflicts happen when two people make changes to the same file on GitHubâ€
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Create a pull request</h2></summary>
 
 _Welcome to "Managing Merge Conflicts"! :wave:_
@@ -83,7 +83,7 @@ _Welcome to "Managing Merge Conflicts"! :wave:_
   Define terms and link to docs.github.com.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Resolve a merge conflict</h2></summary>
 
 _Good start! Now let's look deeper at a merge conflict! :mag:_
