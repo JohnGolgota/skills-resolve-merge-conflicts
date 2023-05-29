@@ -143,7 +143,7 @@ We went ahead and added a new file called `references.md` and pushed that change
   Define terms and link to docs.github.com.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
@@ -165,7 +165,7 @@ You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glo
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finish</h2></summary>
 
 _Congratulations friend, you've completed this course!_
