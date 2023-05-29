@@ -114,7 +114,7 @@ This can be intimidating, but have no fear, Git is smart when it comes to mergin
   Define terms and link to docs.github.com.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Create your own conflict</h2></summary>
 
 _Good job! You've solved a merge conflict! :tada:_
@@ -143,7 +143,7 @@ We went ahead and added a new file called `references.md` and pushed that change
   Define terms and link to docs.github.com.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
 _Almost there! :heart:_
